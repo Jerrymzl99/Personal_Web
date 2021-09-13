@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea2e8e6-1854-45b8-a149-2861a26f1ad8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
       <workItem from="1631501326072" duration="1173000" />
       <workItem from="1631503181539" duration="249000" />
       <workItem from="1631505721608" duration="44000" />
+      <workItem from="1631566630986" duration="229000" />
     </task>
     <servers />
   </component>
