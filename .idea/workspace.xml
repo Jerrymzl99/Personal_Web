@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea2e8e6-1854-45b8-a149-2861a26f1ad8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/images/Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2021_4_34_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2021_4_34_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="website" type="JavascriptDebugType" uri="http://localhost:63342/Personal_Web/index.html" useBuiltInWebServerPort="true">
@@ -61,6 +62,7 @@
       <workItem from="1631503181539" duration="249000" />
       <workItem from="1631505721608" duration="44000" />
       <workItem from="1631566630986" duration="229000" />
+      <workItem from="1632181780243" duration="400000" />
     </task>
     <servers />
   </component>
